@@ -3,6 +3,9 @@
 ### Android app脚本
 
 ### clean -> build -> install 自动化执行脚本
+
+### 放置在工程目录下 执行python ##.py
+
 --------------
 + 正则表达式
 + xml读取
