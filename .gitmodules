@@ -1,0 +1,3 @@
+[submodule "fat-aar"]
+	path = fat-aar
+	url = https://github.com/top2015/fat-aar-2019.git
